@@ -17,16 +17,43 @@ paginate = 6
 # Parameters
 [params]
   google_analytics_id = ""
-  homepage_intro = "Professional archival services bringing order to historical collections"
-  homepage_image = "/images/hero.jpg"
+  favicon = "favicon.ico"
+
+  # Homepage
+  [params.homepage]
+    sticky_header = true
+    show_contact_box = true
+    show_services_button = true
 
   # Logo
-  logo = "/images/logo.svg"
-  logo_desktop_width = "150px"
-  logo_mobile_width = "120px"
+  [params.logo]
+    mobile = "images/logo/logo.svg"
+    mobile_height = "36px"
+    desktop = "images/logo/logo.svg"
+    desktop_height = "42px"
+    alt = "Shorter Timlin Archivists"
+
+  # Fonts
+  [params.fonts]
+    google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Lora:wght@400;500&display=swap'
+    heading = "Playfair Display"
+    base = "Lora"
+
+  # Colors - Professional archival theme (navy, charcoal, warm brown)
+  [params.colors]
+    primary = "#2c3e50"
+    black = "#2f2f41"
+    white = "#ffffff"
+    white_offset = "#f8f9fa"
+    grey = "#5C5A5A"
+
+  # Services
+  [params.services]
+    summary_truncate = 120
 
   # Footer
-  footer = "Shorter Timlin Archivists - Preserving the Past, Enabling the Future"
+  [params.footer]
+    copyright_text = '&copy; 2024 Shorter Timlin Archivists. All rights reserved.'
 
   # Contact
   [params.contact]
