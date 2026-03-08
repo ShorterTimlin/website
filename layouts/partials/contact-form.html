@@ -1,0 +1,172 @@
+<form
+  name="contact"
+  method="POST"
+  data-netlify="true"
+  data-netlify-honeypot="bot-field"
+  action="/success/"
+  class="contact-form"
+>
+  <!-- Honeypot field for spam protection (hidden from users) -->
+  <p class="hidden" style="display: none;">
+    <label>
+      Don't fill this out if you're human: <input name="bot-field" />
+    </label>
+  </p>
+
+  <!-- Hidden field required by Netlify Forms -->
+  <input type="hidden" name="form-name" value="contact" />
+
+  <div class="form-group">
+    <label for="name">Name <span class="required">*</span></label>
+    <input
+      type="text"
+      id="name"
+      name="name"
+      required
+      class="form-control"
+      placeholder="Your full name"
+    />
+  </div>
+
+  <div class="form-group">
+    <label for="email">Email <span class="required">*</span></label>
+    <input
+      type="email"
+      id="email"
+      name="email"
+      required
+      class="form-control"
+      placeholder="your.email@example.com"
+    />
+  </div>
+
+  <div class="form-group">
+    <label for="organization">Organization</label>
+    <input
+      type="text"
+      id="organization"
+      name="organization"
+      class="form-control"
+      placeholder="Your organization name"
+    />
+  </div>
+
+  <div class="form-group">
+    <label for="phone">Phone</label>
+    <input
+      type="tel"
+      id="phone"
+      name="phone"
+      class="form-control"
+      placeholder="(555) 123-4567"
+    />
+  </div>
+
+  <div class="form-group">
+    <label for="project-type">Project Type <span class="required">*</span></label>
+    <select
+      id="project-type"
+      name="project-type"
+      required
+      class="form-control"
+    >
+      <option value="">Select a project type</option>
+      <option value="historical-research">Historical Research</option>
+      <option value="archival-processing">Archival Processing</option>
+      <option value="digitization">Digitization Services</option>
+      <option value="consulting">Archival Consulting</option>
+      <option value="finding-aids">Finding Aid Development</option>
+      <option value="preservation">Preservation & Conservation</option>
+      <option value="other">Other</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="message">Project Details <span class="required">*</span></label>
+    <textarea
+      id="message"
+      name="message"
+      required
+      rows="6"
+      class="form-control"
+      placeholder="Please describe your archival needs, collection size, timeline, and any specific requirements..."
+    ></textarea>
+  </div>
+
+  <div class="form-group">
+    <button type="submit" class="button button-primary">
+      Send Inquiry
+    </button>
+  </div>
+
+  <p class="form-note">
+    <small>* Required fields. We typically respond within 1-2 business days.</small>
+  </p>
+</form>
+
+<style>
+  .contact-form {
+    max-width: 600px;
+  }
+
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+
+  .form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+
+  .form-group .required {
+    color: #c41e3a;
+  }
+
+  .form-control {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-family: inherit;
+  }
+
+  .form-control:focus {
+    outline: none;
+    border-color: #2c3e50;
+    box-shadow: 0 0 0 3px rgba(44, 62, 80, 0.1);
+  }
+
+  textarea.form-control {
+    resize: vertical;
+  }
+
+  .button {
+    padding: 0.75rem 2rem;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .button-primary {
+    background-color: #2c3e50;
+    color: white;
+  }
+
+  .button-primary:hover {
+    background-color: #1a252f;
+  }
+
+  .form-note {
+    margin-top: 1rem;
+    color: #666;
+  }
+
+  .hidden {
+    display: none !important;
+  }
+</style>

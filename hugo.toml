@@ -1,0 +1,72 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Shorter Timlin Archivists'
+theme = 'hugo-serif-theme'
+
+# Enable emoji support
+enableEmoji = true
+
+# Pagination
+paginate = 6
+
+# Taxonomies
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+# Parameters
+[params]
+  google_analytics_id = ""
+  homepage_intro = "Professional archival services bringing order to historical collections"
+  homepage_image = "/images/hero.jpg"
+
+  # Logo
+  logo = "/images/logo.svg"
+  logo_desktop_width = "150px"
+  logo_mobile_width = "120px"
+
+  # Footer
+  footer = "Shorter Timlin Archivists - Preserving the Past, Enabling the Future"
+
+  # Contact
+  [params.contact]
+    email = "info@shortertimlinarchivists.com"
+    phone = "(555) 123-4567"
+    address = ""
+
+  # Social media
+  [params.social]
+    linkedin = ""
+    twitter = ""
+
+# Menu
+[[menu.main]]
+  name = "Services"
+  url = "/services/"
+  weight = 1
+
+[[menu.main]]
+  name = "Case Studies"
+  url = "/case-studies/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 4
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
