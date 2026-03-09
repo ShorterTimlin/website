@@ -10,7 +10,7 @@ Shorter Timlin Archivists was founded in 2012. Rebecca qualified in 2004, and ha
 
 ## Our Approach
 
-Ours is a client led approach that is bespoke to your needs. We will work to your goals and ensure we meet your requirements, whether you wish us to take full ownership or your project or involve you at every step. 
+Ours is a client led approach that is bespoke to your needs. We will work to your goals and ensure we meet your requirements, whether you wish us to take full ownership of your project or involve you at every step. 
 
 ## Our Team
 
