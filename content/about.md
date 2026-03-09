@@ -10,10 +10,10 @@ Shorter Timlin Archivists was founded in 2012. Rebecca qualified in 2004, and ha
 
 ## Our Approach
 
-We believe that good archival work balances preservation with access. Our processing methodology emphasizes:
+Ours is a client led approach that is bespoke to your needs. We will work to your goals and ensure we meet your requirements whether you wish us to take full ownership or your project or involve you at every step. 
 
-- **Cataloguing and Collections Management** - We catalogue to ISAD(G) standards, can advise on collections management and archival best practice including creating bespoke, archival standard storage
-- **MPLP Principles** - Appropriate processing levels that maximize accessibility
+- **Cataloguing and Collections Management** - We catalogue to ISAD(G) standards, can advise on collections management and archival best practice including creating bespoke, archival standard storage. We believe that good archival work balances preservation with access.
+- **Outreach and Heritage Consultancy** - Appropriate processing levels that maximize accessibility
 - **Ethical Practice** - Following SAA and RBMS professional standards
 - **Collaborative Process** - Working closely with clients to understand their goals
 - **Sustainable Solutions** - Practical recommendations that fit your resources
