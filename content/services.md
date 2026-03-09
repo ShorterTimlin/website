@@ -23,11 +23,11 @@ We provide a comprehensive range of services that transform unorganised collecti
 
 ## Historical Research
 
-We offer an expert research service with proven experiences in land, property and building history s drawing on archival expertise and historical knowledge.
+** Land and Property History and Ownership** - We provide an expert service with extensive experience of researching land, property and buildings (private, public insititutional and ecclesiastical); supporting archaeological and heritage projects and assisting with legal matters including searching for documentary evidence and researching land and propery titles. We can present the results of our research in any format of any length as required. Past experiences includes writing, editing and design two c.250 page books on the history and the modern restoration of a signifciant Gloucestershire estate.
 
-**Institutional Histories** - Comprehensive research for anniversary publications, exhibitions, and organizational milestones.
+** Outreach and heritage prpjects "" - We can research, create and deliver talks exhibitions and workshops on any subject and to support any project. THi
 
-**Legal & Property Research** - Chain of title research, provenance documentation, and historical evidence for legal matters.
+
 
 **Family History** - Genealogical research and family archive organization.
 
