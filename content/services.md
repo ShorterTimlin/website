@@ -6,7 +6,6 @@ draft = false
 
 ## Cataloguing and Collections Management
 
-
 We provide a comprehensive range of services that transform unorganised collections into well-documented, accessible archives. We can work with private, public and institutional Archives and no collection is too large or too small.
 
 **Survey & Assessment** - 
