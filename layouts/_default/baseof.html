@@ -21,6 +21,9 @@
   <!-- Custom Parchment Background CSS -->
   <link rel="stylesheet" href="{{ "css/parchment.css" | relURL }}">
 
+  <!-- Hero Header CSS -->
+  <link rel="stylesheet" href="{{ "css/hero-header.css" | relURL }}">
+
   {{ block "header_css" . }}{{ end }}
 
   {{ block "meta_tags" . }}
@@ -57,6 +60,9 @@
     {{ $scripts = $scripts | minify | fingerprint }}
   {{ end }}
   <script type="text/javascript" src="{{ $scripts.RelPermalink }}"></script>
+
+  <!-- Hero Header Scroll Script -->
+  <script type="text/javascript" src="{{ "js/header-scroll.js" | relURL }}"></script>
 
   {{ partial "google-tag-manager.html" . }}
   {{ partial "google-analytics.html" . }}

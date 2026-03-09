@@ -1,0 +1,38 @@
+<div class="header-wrapper {{ if .IsHome }}header-home{{ end }}">
+  <div class="header {{ if .Site.Params.homepage.sticky_header }}header-sticky{{ end }}">
+    <div class="container">
+      <div class="header-content">
+        <div class="logo">
+          {{ if .Site.Params.logo }}
+            {{ if .Site.Params.logo.desktop }}
+              <a href="{{ .Site.BaseURL }}">
+                <img
+                  height="{{ .Site.Params.logo.desktop_height }}"
+                  alt="{{ .Site.Params.logo.alt }}"
+                  src="{{ .Site.Params.logo.desktop | relURL }}"
+                  class="logo-desktop"
+                />
+              </a>
+            {{ end }}
+            {{ if .Site.Params.logo.mobile }}
+              <a href="{{ .Site.BaseURL }}">
+                <img
+                  height="{{ .Site.Params.logo.mobile_height }}"
+                  alt="{{ .Site.Params.logo.alt }}"
+                  src="{{ .Site.Params.logo.mobile | relURL }}"
+                  class="logo-mobile"
+                />
+              </a>
+            {{ end }}
+          {{ else }}
+            <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+          {{ end }}
+        </div>
+        <div class="header-menu">
+          {{ partial "main-menu.html" . }}
+          {{ partial "hamburger.html" . }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
