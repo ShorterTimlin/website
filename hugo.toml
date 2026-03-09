@@ -27,9 +27,9 @@ paginate = 6
 
   # Logo
   [params.logo]
-    mobile = "images/logo/logo-full.png"
+    mobile = "images/logo/logo.png"
     mobile_height = "50px"
-    desktop = "images/logo/logo-full.png"
+    desktop = "images/logo/logo.png"
     desktop_height = "60px"
     alt = "Shorter Timlin Archivists & Historians"
 
