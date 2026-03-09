@@ -12,22 +12,6 @@ Shorter Timlin Archivists was founded in 2012. Rebecca qualified in 2004, and ha
 
 Ours is a client led approach that is bespoke to your needs. We will work to your goals and ensure we meet your requirements, whether you wish us to take full ownership or your project or involve you at every step. 
 
-What we offer
-Cataloguing it ISAD(G) standards and collections management and advising on archival best practice
-Packaging collections and archival storage advice and assessment
-Historical research
-Outreach including delivering talks, workshops and one-to-one research sessions
-Land, property and building history
-Documentary assessements in support of archaeological and heritage projects
-Assessment of documentary evidence for boundary queries or legal cases
-Document copying
-Why Choose Us
-Qualified archivists over four decades of experience
-Proven track record of with local government, ecclesiastical and institutions, museums, and private collectors
-Commitment to professional standards and ethical practices
-Flexible engagement models from project-based to ongoing support
-
-
 ## Our Team
 
 Our core team includes two qualified Archivists, Helen Timlin BA(Hons) MScEcon and Rebecca Phillips Née Shorter BA (Hons), MARM. We supplement our expertise with associates and digitisation consultants. Every project is led by Helen or Rebecca who maintain direct client communication throughout the engagement.
