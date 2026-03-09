@@ -19,3 +19,8 @@ Thumbs.db
 
 # Local development
 .env
+
+# Working files in project root
+/*.png
+/*.jpg
+/*.jpeg
