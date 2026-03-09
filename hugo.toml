@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Shorter Timlin Archivists'
+title = 'Shorter Timlin Archivists & Historians'
 theme = 'hugo-serif-theme'
 
 # Enable emoji support
@@ -27,11 +27,11 @@ paginate = 6
 
   # Logo
   [params.logo]
-    mobile = "images/logo/logo.svg"
-    mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
-    desktop_height = "42px"
-    alt = "Shorter Timlin Archivists"
+    mobile = "images/logo/logo-full.png"
+    mobile_height = "50px"
+    desktop = "images/logo/logo-full.png"
+    desktop_height = "60px"
+    alt = "Shorter Timlin Archivists & Historians"
 
   # Fonts
   [params.fonts]
@@ -39,13 +39,13 @@ paginate = 6
     heading = "Playfair Display"
     base = "Lora"
 
-  # Colors - Professional archival theme (navy, charcoal, warm brown)
+  # Colors - Heritage parchment theme matching logo
   [params.colors]
-    primary = "#2c3e50"
+    primary = "#8b7765"
     black = "#2f2f41"
-    white = "#ffffff"
-    white_offset = "#f8f9fa"
-    grey = "#5C5A5A"
+    white = "#fffdf8"
+    white_offset = "#f5f1e8"
+    grey = "#6b5d4f"
 
   # Services
   [params.services]
@@ -53,7 +53,7 @@ paginate = 6
 
   # Footer
   [params.footer]
-    copyright_text = '&copy; 2024 Shorter Timlin Archivists. All rights reserved.'
+    copyright_text = '&copy; 2024 Shorter Timlin Archivists & Historians. All rights reserved.'
 
   # Contact
   [params.contact]

@@ -1,10 +1,10 @@
 +++
-title = "Shorter Timlin Archivists"
+title = "Shorter Timlin Archivists & Historians"
 +++
 
-## Professional Archival Services
+## Professional Archival & Historical Research Services
 
-Shorter Timlin Archivists brings over two decades of expertise in archival processing, historical research, and preservation services. We help institutions, organizations, and private collectors transform unorganized historical materials into accessible, well-documented collections.
+Shorter Timlin Archivists & Historians brings over two decades of expertise in archival processing, historical research, and preservation services. We help institutions, organizations, and private collectors transform unorganized historical materials into accessible, well-documented collections.
 
 ### Our Services
 

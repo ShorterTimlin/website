@@ -6,7 +6,7 @@ draft = false
 
 ## Our Story
 
-Shorter Timlin Archivists was founded in 2003 by Dr. Margaret Shorter and James Timlin, two archivists who shared a vision of making historical collections more accessible while maintaining the highest professional standards. What began as a partnership serving local historical societies has grown into a respected firm working with institutions across the region.
+Shorter Timlin Archivists & Historians was founded in 2003 by Dr. Margaret Shorter and James Timlin, combining expertise in both archival science and historical research. We share a vision of making historical collections more accessible while maintaining the highest professional standards. What began as a partnership serving local historical societies has grown into a respected firm working with institutions across the region.
 
 Our team combines deep expertise in archival theory with practical, hands-on experience processing diverse collections. We've worked with everything from 18th-century manuscripts to 21st-century digital records, from corporate archives to personal family papers.
 
