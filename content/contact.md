@@ -16,11 +16,9 @@ For urgent inquiries, please call us directly.
 
 ## Contact Information
 
-**Email:** info@shortertimlinarchivists.com
+**Email:** shorter.timlin@gmail.com
 
-**Phone:** (555) 123-4567
-
-**Business Hours:** Monday - Friday, 9:00 AM - 5:00 PM EST
+**Phone:** 07979 356293
 
 ---
 
