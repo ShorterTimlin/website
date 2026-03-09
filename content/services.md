@@ -8,18 +8,22 @@ draft = false
 
 We provide a comprehensive range of services that transform unorganised collections into well-documented, accessible archives. We can work with private, public and institutional Archives and no collection is too large or too small.
 
-**Survey & Assessment** - 
-Initial collection surveys to determine the extent, type and condition of the material
+**Survey & Assessment** - We can offer initial assessments to determine the extent, type and condition of material, followed by comprehensive surveys with including retention scheduling and collecting priorities.
 
-**Arrangement & Description** - Physical and intellectual arrangement following ISAD(G) archival principles. Box lists or catalogues created in Word, Excel or dedicated Archival software as preferred.
+**Arrangement & Description** - We can create physical and intellectual arrangements that follow ISAD(G) archival principles. Box lists or full catalogues can created in Word, Excel or dedicated Archival software as preferred.
 
-**Rehousing & Preservation** - All material will be packaged into archival-quality folders and boxes with appropriate labeling and environmental control recommendations.
+**Collections Management** - We can advise on the most appropriate Collections Management System (CMS) to manage the physical and digital records in your personal or public archive, museum collection or library.
+
+**Repackaging & Preservation** - All material will be packaged into archival-quality folders and boxes with appropriate labeling and environmental control recommendations.
 
 **Digitisation Services**   - We work with trusted firms to project manage the digitisation of collections including the labelling, storage of the images and creating of finding aids.
 
+**Training & Workshops** - We can provide staff training on archival principles, preservation techniques, and collection management.
+
+
 ## Historical Research
 
-Expert research services drawing on archival expertise and historical knowledge.
+We offer an expert research service with proven experiences in land, property and building history s drawing on archival expertise and historical knowledge.
 
 **Institutional Histories** - Comprehensive research for anniversary publications, exhibitions, and organizational milestones.
 
@@ -39,9 +43,7 @@ Strategic guidance for organizations developing or improving archival programs.
 
 **Grant Applications** - Assistance with NHPRC, IMLS, and state grant applications for archival projects.
 
-**Training & Workshops** - Staff training on archival principles, preservation techniques, and collection management.
-
-**Collection Surveys** - Comprehensive surveys of existing holdings with recommendations for priorities and resource allocation.
+.
 
 **Disaster Planning** - Emergency preparedness planning and disaster response consulting.
 
