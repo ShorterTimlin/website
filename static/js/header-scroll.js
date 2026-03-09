@@ -5,20 +5,25 @@
   'use strict';
 
   // Configuration
-  const SCROLL_THRESHOLD = 50; // Pixels scrolled before header shrinks
+  const SCROLL_DISTANCE = 180; // Pixels over which the header fully compacts
+  const SCROLLED_CLASS_THRESHOLD = 12;
   let ticking = false;
 
   // Get elements
   const header = document.querySelector('.header');
   const body = document.body;
+  const root = document.documentElement;
 
   if (!header) return;
 
   // Handle scroll with requestAnimationFrame for smooth performance
   function handleScroll() {
     const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    const progress = Math.max(0, Math.min(scrollTop / SCROLL_DISTANCE, 1));
 
-    if (scrollTop > SCROLL_THRESHOLD) {
+    root.style.setProperty('--header-progress', progress.toFixed(4));
+
+    if (scrollTop > SCROLLED_CLASS_THRESHOLD) {
       header.classList.add('scrolled');
       body.classList.add('scrolled');
     } else {

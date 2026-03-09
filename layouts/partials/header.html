@@ -4,28 +4,37 @@
       <div class="header-content">
         <div class="logo">
           {{ if .Site.Params.logo }}
-            {{ if .Site.Params.logo.desktop }}
-              <a href="{{ .Site.BaseURL }}">
+            {{ $desktop := .Site.Params.logo.desktop }}
+            {{ $mobile := .Site.Params.logo.mobile }}
+            {{ $alt := .Site.Params.logo.alt }}
+            <a class="logo-link" href="{{ .Site.Home.RelPermalink }}" aria-label="{{ $alt }}">
+              {{ if and $desktop $mobile (ne $desktop $mobile) }}
                 <img
-                  height="{{ .Site.Params.logo.desktop_height }}"
-                  alt="{{ .Site.Params.logo.alt }}"
-                  src="{{ .Site.Params.logo.desktop | relURL }}"
+                  alt="{{ $alt }}"
+                  src="{{ $desktop | relURL }}"
                   class="logo-desktop"
                 />
-              </a>
-            {{ end }}
-            {{ if .Site.Params.logo.mobile }}
-              <a href="{{ .Site.BaseURL }}">
                 <img
-                  height="{{ .Site.Params.logo.mobile_height }}"
-                  alt="{{ .Site.Params.logo.alt }}"
-                  src="{{ .Site.Params.logo.mobile | relURL }}"
+                  alt="{{ $alt }}"
+                  src="{{ $mobile | relURL }}"
                   class="logo-mobile"
                 />
-              </a>
-            {{ end }}
+              {{ else if $desktop }}
+                <img
+                  alt="{{ $alt }}"
+                  src="{{ $desktop | relURL }}"
+                  class="logo-mark"
+                />
+              {{ else if $mobile }}
+                <img
+                  alt="{{ $alt }}"
+                  src="{{ $mobile | relURL }}"
+                  class="logo-mark"
+                />
+              {{ end }}
+            </a>
           {{ else }}
-            <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+            <a class="site-title" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
           {{ end }}
         </div>
         <div class="header-menu">

@@ -39,13 +39,12 @@ body {
 
 /* Ensure content containers have subtle parchment background */
 .container {
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(248, 244, 236, 0.34);
   background-image:
     linear-gradient(
       to bottom,
-      rgba(245, 241, 232, 0.4) 0%,
-      rgba(255, 255, 255, 0.4) 50%,
-      rgba(245, 241, 232, 0.4) 100%
+      rgba(255, 252, 246, 0.2) 0%,
+      rgba(248, 244, 236, 0.12) 100%
     );
 }
 
@@ -53,7 +52,7 @@ body {
 .content,
 .page,
 .intro {
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(250, 247, 241, 0.42);
   background-image:
     repeating-linear-gradient(
       0deg,
@@ -215,6 +214,12 @@ textarea:focus,
 /* Wrapper background */
 .wrapper {
   background-color: transparent;
+}
+
+.header-wrapper .container,
+.header .container {
+  background-color: transparent;
+  background-image: none;
 }
 
 /* Strip sections */
