@@ -4,33 +4,18 @@ date = 2024-01-01T00:00:00Z
 draft = false
 +++
 
-## Archival Processing
+## Cataloguing and Collections Management
 
-We provide comprehensive processing services that transform unorganized collections into well-documented, accessible archives.
+We provide a comprehensive range of services that transform unorganised collections into well-documented, accessible archives. We can work with private, public and institutional Archives and no collection is too large or too small. We can offer various levels of listing from basic inventories to item-level cataloging, based on your requirements.
 
-**Survey & Assessment** - Initial collection surveys to determine scope, condition, and processing priorities. We provide detailed reports with cost estimates and timeline projections.
+**Survey & Assessment** - 
+Initial collection surveys to determine the extent, type and condition of the material.
 
-**Arrangement & Description** - Physical and intellectual arrangement following archival principles. We create detailed finding aids in EAD/DACS format suitable for online publication.
+**Arrangement & Description** - Physical and intellectual arrangement following ISAD(G) archival principles. Box lists or catalogues created in Word, Excel or dedicated Archival software as preferred.
 
-**Rehousing & Preservation** - Transfer materials into archival-quality folders and boxes with appropriate labeling and environmental controls recommendations.
+**Rehousing & Preservation** - All material will be packaged into archival-quality folders and boxes with appropriate labeling and environmental control recommendations.
 
-**Processing Levels** - We work at various levels from basic inventories to item-level cataloging, matching the processing intensity to collection significance and use.
-
----
-
-## Digitization Services
-
-High-quality digital capture and metadata creation for photographs, documents, audio-visual materials, and unique formats.
-
-**Planning & Specifications** - Digitization project planning including format selection, metadata schema, quality control protocols, and workflow design.
-
-**Scanning & Photography** - Professional scanning services for documents, photographs, maps, and bound volumes. We work with trusted partners for specialized formats like film, audio, and video.
-
-**Digital Asset Management** - Metadata creation, file organization, and recommendations for long-term digital preservation.
-
-**Access Systems** - Integration with content management systems and online collection platforms.
-
----
+**Digitisation Services**   - We work with trusted firms to project manage the digitisation of collections including the labelling, storage of the images and creating of finding aids.
 
 ## Historical Research
 
