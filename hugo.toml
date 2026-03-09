@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://shortertimlin.github.io/website/'
 languageCode = 'en-us'
 title = 'Shorter Timlin Archivists & Historians'
 theme = 'hugo-serif-theme'
@@ -92,6 +92,10 @@ paginate = 6
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 # Output formats
 [outputs]

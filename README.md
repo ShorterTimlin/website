@@ -10,8 +10,8 @@ This is a professional business website showcasing archival services, case studi
 
 - **Hugo** v0.157.0+ (Extended)
 - **Theme**: Hugo Serif Theme
-- **Deployment**: Netlify (configured in netlify.toml)
-- **Forms**: Netlify Forms with spam protection
+- **Deployment**: GitHub Pages via GitHub Actions
+- **Forms**: Netlify Forms markup is still present in the contact form
 
 ## Local Development
 
@@ -85,18 +85,28 @@ Edit the front matter and content following the template in `archetypes/testimon
 
 ## Deployment
 
-### Netlify Deployment
+### GitHub Pages Deployment
 
-1. Push your code to GitHub
-2. Connect your repository to Netlify
-3. Netlify will automatically detect the build settings from `netlify.toml`
-4. Your site will be deployed automatically on push to main branch
+1. Push to the `main` branch
+2. In GitHub, open `Settings > Pages`
+3. Set the source to `GitHub Actions` if it is not already enabled
+4. The workflow in `.github/workflows/hugo.yml` will build and publish the site automatically on each push
 
 ### Build Command
 
 ```bash
 hugo --gc --minify
 ```
+
+### GitHub Pages URL
+
+The site is configured for the repository Pages URL:
+
+```text
+https://shortertimlin.github.io/website/
+```
+
+If you later attach a custom domain, update `baseURL` in `hugo.toml` and add a `static/CNAME` file.
 
 ## Features
 
@@ -138,7 +148,7 @@ To complete the site, add the following assets to `static/images/`:
 
 ## Contact Form
 
-The contact form is integrated with Netlify Forms and includes:
+The contact form markup is currently integrated with Netlify Forms and includes:
 
 - Name, email, organization, phone fields
 - Project type dropdown
@@ -146,7 +156,7 @@ The contact form is integrated with Netlify Forms and includes:
 - Honeypot spam protection
 - Success page redirect
 
-Form submissions appear in your Netlify dashboard.
+This form will not process submissions on GitHub Pages. If you want it to keep working after the move off Netlify, replace it with another form backend or serverless handler.
 
 ## License
 

@@ -12,4 +12,4 @@ If you need immediate assistance, please call us at (555) 123-4567.
 
 ---
 
-[Return to Home](/) | [View Our Services](/services/)
+[Return to Home]({{< relref "/" >}}) | [View Our Services]({{< relref "/services.md" >}})
