@@ -14,11 +14,26 @@ Our team combines deep expertise in archival theory with practical, hands-on exp
 
 We believe that good archival work balances preservation with access. Our processing methodology emphasizes:
 
-- **User-Centered Description** - Creating finding aids that researchers can actually use
+- **Cataloguing and Collections Management** - We catalogue to ISAD(G) standards, can advise on collections management and archival best practice including creating bespoke, archival standard storage
 - **MPLP Principles** - Appropriate processing levels that maximize accessibility
 - **Ethical Practice** - Following SAA and RBMS professional standards
 - **Collaborative Process** - Working closely with clients to understand their goals
 - **Sustainable Solutions** - Practical recommendations that fit your resources
+
+What we offer
+Cataloguing it ISAD(G) standards and collections management and advising on archival best practice
+Packaging collections and archival storage advice and assessment
+Historical research
+Outreach including delivering talks, workshops and one-to-one research sessions
+Land, property and building history
+Documentary assessements in support of archaeological and heritage projects
+Assessment of documentary evidence for boundary queries or legal cases
+Document copying
+Why Choose Us
+Qualified archivists over four decades of experience
+Proven track record of with local government, ecclesiastical and institutions, museums, and private collectors
+Commitment to professional standards and ethical practices
+Flexible engagement models from project-based to ongoing support
 
 ## Professional Affiliations
 
