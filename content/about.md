@@ -6,9 +6,7 @@ draft = false
 
 ## Our Story
 
-Shorter Timlin Archivists & Historians was founded in 2003 by Dr. Margaret Shorter and James Timlin, combining expertise in both archival science and historical research. We share a vision of making historical collections more accessible while maintaining the highest professional standards. What began as a partnership serving local historical societies has grown into a respected firm working with institutions across the region.
-
-Our team combines deep expertise in archival theory with practical, hands-on experience processing diverse collections. We've worked with everything from 18th-century manuscripts to 21st-century digital records, from corporate archives to personal family papers.
+Shorter Timlin Archivists was founded in 2012. Rebecca qualified in 2004, and has worked as both an archivist and records manager in a number of institutions including: Gloucestershire Archives, St Edmund Hall in Oxford, the Diocese of Gloucester and Gloucester Cathedral.  She is currently archivist for Gloucester Cathedral, and also responsible for the historic Library.  Helen qualified in 2011 and worked at Gloucestershire Archives assisting the public with their enquiries, cataloguing and writing and leading workshops and tours for more than ten years whilst studying for her Masters.  She now works full-time for the business.
 
 ## Our Approach
 
