@@ -4,22 +4,22 @@ title = "Shorter Timlin Archivists & Historians"
 
 ## Professional Archival & Historical Research Services
 
-Shorter Timlin Archivists & Historians brings over two decades of expertise in archival processing, historical research, and preservation services. We help institutions, organizations, and private collectors transform unorganized historical materials into accessible, well-documented collections.
+Shorter and Timlin are two archivists who combine four decades in the field and deliver expert archival and heritage services. We pride ourselves on a professional yet accessible approach, providing bespoke solutions or commissioned research to meet your exact specifications.
 
-### Our Services
+### What we offer
 
-**Archival Processing** - From survey to finding aid creation, we provide comprehensive processing services that make collections discoverable and usable.
-
-**Digitization Services** - High-quality scanning and digital asset management for photographs, documents, and unique materials.
-
-**Historical Research** - Expert research services for publications, exhibitions, legal matters, and family history projects.
-
-**Consulting** - Strategic guidance on archival best practices, grant applications, and collection development.
-
+ - Cataloguing it ISAD(G) standards and collections management and advising on archival best practice
+ - Packaging collections and archival storage advice and assessment
+ - Historical research 
+ - Outreach including delivering talks, workshops and one-to-one research sessions
+ - Land, property and building history
+ - Documentary assessements in support of archaeological and heritage projects
+ - Assessment of documentary evidence for boundary queries or legal cases
+ - Document copying 
+   
 ### Why Choose Us
 
-- Certified archivists with advanced degrees in history and library science
-- Experience with collections ranging from 5 to 500+ linear feet
-- Proven track record serving academic institutions, museums, and private collectors
+- Qualified archivists over four decades of experience
+- Proven track record of  with local government, ecclesiastical and  institutions, museums, and private collectors
 - Commitment to professional standards and ethical practices
 - Flexible engagement models from project-based to ongoing support
