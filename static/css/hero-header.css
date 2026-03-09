@@ -20,8 +20,81 @@
       rgba(255, 253, 248, 0.9),
       rgba(245, 241, 232, 0.95)
     );
-  border-bottom: 2px solid rgba(139, 119, 101, 0.2);
+  border-bottom: none;
   box-shadow: 0 4px 12px rgba(139, 119, 101, 0.15);
+}
+
+/* Container needs relative positioning for border elements */
+.header .container {
+  position: relative;
+}
+
+/* Left side of main border (from left edge to logo cutout) */
+.header::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: calc(50% - 350px);
+  height: 2px;
+  background: rgba(139, 119, 101, 0.3);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Right side of main border (from logo cutout to right edge) */
+.header::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: calc(50% - 350px);
+  height: 2px;
+  background: rgba(139, 119, 101, 0.3);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Left vertical drop for logo cutout */
+.header .header-content::before {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: calc(50% - 350px);
+  width: 2px;
+  height: 70px;
+  background: rgba(139, 119, 101, 0.3);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 1;
+}
+
+/* Right vertical drop for logo cutout */
+.header .header-content::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  right: calc(50% - 350px);
+  width: 2px;
+  height: 70px;
+  background: rgba(139, 119, 101, 0.3);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 1;
+}
+
+/* Bottom horizontal border under logo */
+.header .logo::after {
+  content: '';
+  position: absolute;
+  bottom: -72px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 700px;
+  height: 2px;
+  background: rgba(139, 119, 101, 0.3);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 1;
+}
+
+.header .logo {
+  position: relative;
 }
 
 /* Large header state (on page load) */
@@ -44,11 +117,22 @@
 .header.scrolled {
   padding: 0.75rem 0;
   box-shadow: 0 2px 8px rgba(139, 119, 101, 0.2);
+  border-bottom: 2px solid rgba(139, 119, 101, 0.3);
 }
 
 .header.scrolled .logo img {
   height: 60px !important;
   filter: drop-shadow(0 2px 4px rgba(139, 119, 101, 0.15));
+}
+
+/* Hide custom border cutout when scrolled - switch to simple bottom border */
+.header.scrolled::before,
+.header.scrolled::after,
+.header.scrolled .header-content::before,
+.header.scrolled .header-content::after,
+.header.scrolled .logo::after {
+  opacity: 0;
+  height: 0;
 }
 
 /* Header content layout */
@@ -81,9 +165,9 @@
   display: none;
 }
 
-/* Add padding to body to account for fixed header */
+/* Add padding to body to account for fixed header with cutout */
 body {
-  padding-top: 180px;
+  padding-top: 230px;
   transition: padding-top 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -139,8 +223,32 @@ body.scrolled {
     height: 50px !important;
   }
 
+  /* Adjust border cutout for smaller logos */
+  .header::before {
+    width: calc(50% - 250px);
+  }
+
+  .header::after {
+    width: calc(50% - 250px);
+  }
+
+  .header .header-content::before {
+    left: calc(50% - 250px);
+    height: 50px;
+  }
+
+  .header .header-content::after {
+    right: calc(50% - 250px);
+    height: 50px;
+  }
+
+  .header .logo::after {
+    bottom: -52px;
+    width: 500px;
+  }
+
   body {
-    padding-top: 130px;
+    padding-top: 180px;
   }
 
   body.scrolled {
@@ -165,8 +273,32 @@ body.scrolled {
     height: 45px !important;
   }
 
+  /* Smaller cutout for mobile */
+  .header::before {
+    width: calc(50% - 180px);
+  }
+
+  .header::after {
+    width: calc(50% - 180px);
+  }
+
+  .header .header-content::before {
+    left: calc(50% - 180px);
+    height: 40px;
+  }
+
+  .header .header-content::after {
+    right: calc(50% - 180px);
+    height: 40px;
+  }
+
+  .header .logo::after {
+    bottom: -42px;
+    width: 360px;
+  }
+
   body {
-    padding-top: 120px;
+    padding-top: 160px;
   }
 
   body.scrolled {
