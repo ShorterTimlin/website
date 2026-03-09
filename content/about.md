@@ -12,12 +12,6 @@ Shorter Timlin Archivists was founded in 2012. Rebecca qualified in 2004, and ha
 
 Ours is a client led approach that is bespoke to your needs. We will work to your goals and ensure we meet your requirements whether you wish us to take full ownership or your project or involve you at every step. 
 
-- **Cataloguing and Collections Management** - We catalogue to ISAD(G) standards, can advise on collections management and archival best practice including creating bespoke, archival standard storage. We believe that good archival work balances preservation with access.
-- **Outreach and Heritage Consultancy** - Appropriate processing levels that maximize accessibility
-- **Ethical Practice** - Following SAA and RBMS professional standards
-- **Collaborative Process** - Working closely with clients to understand their goals
-- **Sustainable Solutions** - Practical recommendations that fit your resources
-
 What we offer
 Cataloguing it ISAD(G) standards and collections management and advising on archival best practice
 Packaging collections and archival storage advice and assessment
@@ -33,19 +27,11 @@ Proven track record of with local government, ecclesiastical and institutions, m
 Commitment to professional standards and ethical practices
 Flexible engagement models from project-based to ongoing support
 
-## Professional Affiliations
-
-- Society of American Archivists (SAA)
-- Rare Books and Manuscripts Section (RBMS)
-- Academy of Certified Archivists
-- Regional Archival Associations
 
 ## Our Team
 
-Our core team includes three certified archivists with advanced degrees in history, library science, and archival studies. We supplement our expertise with a network of specialist consultants for conservation, digitization, and specialized subject areas.
-
-Every project is led by a senior archivist who maintains direct client communication throughout the engagement.
+Our core team includes two qualified Archivists, Helen Timlin BA(Hons) MScEcon and Rebecca Phillips Née Shorter BA (Hons), MARM. We supplement our expertise with associates and digitisation consultants. Every project is led by Helen or Rebecca who maintain direct client communication throughout the engagement.
 
 ## Service Area
 
-While our office is located in the Mid-Atlantic region, we regularly work with clients throughout the United States. We're available for both on-site and remote consulting engagements.
+While our office is located in Gloucestershire, England we regularly work with clients throughout the United Kingdom and abroad. We are available for both on-site and remote consulting engagements.
