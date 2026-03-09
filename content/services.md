@@ -6,7 +6,7 @@ draft = false
 
 ## Cataloguing and Collections Management
 
-We provide a comprehensive range of services that transform unorganised collections into well-documented, accessible archives. We can work with private, public and institutional Archives and no collection is too large or too small. We can offer various levels of listing from basic inventories to item-level cataloging, based on your requirements.
+We provide a comprehensive range of services that transform unorganised collections into well-documented, accessible archives. We can work with private, public and institutional Archives and no collection is too large or too small.
 
 **Survey & Assessment** - 
 Initial collection surveys to determine the extent, type and condition of the material.
