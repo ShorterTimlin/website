@@ -1,6 +1,6 @@
 +++
-title = "Historic Family Papers Digitization"
-date = 2023-06-20T00:00:00Z
+title = "Consultant Archivist and Writer"
+date = 2017-Present
 draft = false
 featured = true
 
