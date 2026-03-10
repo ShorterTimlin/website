@@ -8,42 +8,21 @@ project_dates = "April 2017 - Present"
 services_provided =
 
 
-## Challenge
+## Background
 
-The Morrison Family Trust held approximately 15 linear feet of family papers dating from 1847 to 1990, including correspondence, business records, photographs, and ephemera documenting five generations of a prominent mercantile family. The materials were stored in the family home's attic in deteriorating boxes and folders.
+The Owner of a large Gloucestershire Estate required a consultant Archivist to work on immediate and future projects. The owner commissioned us to:
 
-With family members now scattered across three continents, the Trust wanted to:
-- Preserve deteriorating materials, especially fragile photographs and letters
-- Create digital surrogates for family access
-- Organize materials with proper archival arrangement
-- Develop documentation explaining the collection's scope and significance
-- Provide both physical and digital access to future generations
-
-The collection included materials in fragile condition, mixed formats (letters, photographs, ledgers, newspapers), and required sensitive handling of private family information.
+- Conduct an investigation into the location of surviving estate archives which had not be retained by the original estate owners and were held in several repositories. Assess all archives relating to the estate including one major collection. Produce reports summarising the archives found in each repository and analysing their content and historic value. Provide transcriptions as required.
+- Arrange the digiitsation of the major collection including commissioning a digitisation company and overseeing the project including communicating with the repoisitory.
+- Write a book on history of the estate including sourcing and selecting all images and illustrations, editing and designing. The result was a c.250 page book that was priviately produced and is being considered for publication.
+- Assess, catalogue and repackage the archives of the estate and the family. The collection included materials in fragile condition and mixed formats (letters, photographs, drawings and plans, personal papers, newspapers, artefacts), and required sensitive handling of private family information.
+- List the client's private book collection, create a bespoke arrangement focusing on the cient's interests and reshelf all volumes to the new arrangement.
+- Research and write a second book focusing on the estate's restoration with an aim to bring the estate's story up to date.
 
 ## Approach
 
-We developed a comprehensive plan combining preservation, digitization, and description:
+We worked with the client to establish the priority of their projects and made a plan of action. We took ownership of each project and proceeded with professional effiecientcy whilst ensuring the client was consulted whenever necessary.
 
-**Phase 1: Survey and Stabilization**
-- Complete item-level survey documenting condition issues
-- Emergency stabilization for at-risk materials
-- Environmental monitoring recommendations
-
-**Phase 2: Arrangement and Rehousing**
-- Archival arrangement by family branch and generation
-- Rehousing in archival folders and boxes
-- Creation of detailed folder-level inventory
-
-**Phase 3: Digitization**
-- High-resolution scanning of all photographs (600 dpi)
-- Document scanning for correspondence and papers (400 dpi)
-- OCR processing for typed and printed materials
-- Metadata creation with family member identification
-
-**Phase 4: Access Systems**
-- Digital asset organization and file naming
-- Finding aid development
 - Creation of digital access copies for family distribution
 
 ## Process
