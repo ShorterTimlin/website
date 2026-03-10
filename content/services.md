@@ -23,56 +23,23 @@ We provide a comprehensive range of services that transform unorganised collecti
 
 ## Historical Research
 
-**Land and Property History and Ownership** - We have extensive experience of researching land, property and buildings (private, public insititutional and ecclesiastical); supporting archaeological and heritage projects and assisting with legal matters including searching for documentary evidence and researching land and propery titles. We can present the results of our research in any format of any length as required. Past experiences includes writing, editing and design two c.250 page books on the history and the modern restoration of a signifciant Gloucestershire estate.
+**Land and Property History and Ownership** - We have extensive experience of researching land, property and buildings (private, public insititutional and ecclesiastical); supporting archaeological and heritage projects and assisting with legal matters including searching for documentary evidence and researching land and propery titles. We can present the results of our research in any format of any length as required. 
 
-**Outreach and heritage projects** - We can research, create and deliver talks exhibitions and workshops on any subject and to support any project. THi
+**Outreach and heritage projects** - We can research, create and deliver talks, exhibitions and workshops on any subject and to support any project. These can be bespoke to support your aims and requirements or we can deliver one of our existing options. We can support heritage projects undertaking research to support your project or advising how to promote heritage though history and archives.
 
-
-
-**Family History** - Genealogical research and family archive organization.
-
-**Exhibition Support** - Research and content development for museum exhibitions and public history projects.
-
----
-
-## Archival Consulting
-
-Strategic guidance for organizations developing or improving archival programs.
-
-**Program Development** - Helping institutions establish new archival programs including policy development, space planning, and workflow design.
-
-**Grant Applications** - Assistance with NHPRC, IMLS, and state grant applications for archival projects.
-
-.
-
-**Disaster Planning** - Emergency preparedness planning and disaster response consulting.
-
----
-
-## Finding Aid Development
-
-Professional finding aids that make collections discoverable.
-
-**EAD Encoding** - Encoding existing finding aids in EAD format for online publication and integration with archival management systems.
-
-**DACS Compliance** - Ensuring finding aids meet Describing Archives: A Content Standard requirements.
-
-**Authority Control** - Implementation of Library of Congress and local authority files for consistent access points.
-
-**Online Publishing** - Integration with ArchivesSpace, AtoM, and other archival management platforms.
-
----
+**Family History** - We can provide genealogical research from researching and delivering full family histories to helping to fill in gaps in your exisiting research.
 
 ## Engagement Models
 
-**Project-Based** - Fixed-scope projects with defined deliverables and timelines. Ideal for one-time processing projects or specific research needs.
+You can engage us in a number of ways
 
-**Hourly Consulting** - Flexible consulting arrangements for ongoing guidance and support.
+**Hourly Consulting** - We have hourly and daily rates which is a flexible option for both one-off tasks and ongoing support.
 
-**Retainer Arrangements** - Monthly retainer agreements for institutions needing regular archival support.
+**Project-Based** - We can undertake fixed projects to your deliverables and timelines. 
 
----
+**Retainer Arrangements** - We also have the option of monthly retainer agreements for institutions needing regular archival support.
+
 
 ## Getting Started
 
-Every engagement begins with a consultation to understand your needs and collection. Contact us to schedule an initial conversation about your project.
+We are friendly, professional and approachable. Let us know what you need by email or through our contact form and we will go through the option that best suits your project and budget.
