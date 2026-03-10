@@ -33,7 +33,7 @@ We provide a comprehensive range of services that transform unorganised collecti
 
 You can engage us in a number of ways
 
-**Hourly Consulting** - We have hourly and daily rates which is a flexible option for both one-off tasks and ongoing support.
+**Hourly Consulting** - We have hourly and daily rates which is a flexible option for both one-off tasks and ongoing support. Whether you need a single source checked or have a long-term project in mind, no job is too big or too small.
 
 **Project-Based** - We can undertake fixed projects to your deliverables and timelines. 
 
