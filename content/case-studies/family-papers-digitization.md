@@ -1,21 +1,12 @@
 +++
 title = "Consultant Archivist and Writer"
 date = 2017-Present
-draft = false
-featured = true
 
-categories = ["Digitization", "Private Collections"]
-tags = ["family papers", "digitization", "preservation", "metadata"]
 
-client = "The Morrison Family Trust"
-project_dates = "March 2023 - June 2023"
-services_provided = ["Collection Assessment", "Digitization Planning", "Scanning Services", "Metadata Creation", "Finding Aid Development"]
+client = "Gloucestershire Estate"
+project_dates = "April 2017 - Present"
+services_provided =
 
-images = []
-featured_image = ""
-
-summary = "Digitized and organized five generations of family correspondence, photographs, and documents, creating a comprehensive digital archive for family members worldwide."
-+++
 
 ## Challenge
 
