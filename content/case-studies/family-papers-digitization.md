@@ -5,8 +5,6 @@ date = 2017-Present
 
 client = "Gloucestershire Estate"
 project_dates = "April 2017 - Present"
-services_provided =
-
 
 ## Background
 
