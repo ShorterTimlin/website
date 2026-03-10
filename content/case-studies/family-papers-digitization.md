@@ -1,4 +1,4 @@
-+++
+
 title = "Consultant Archivist and Writer"
 date = 2017-Present
 
