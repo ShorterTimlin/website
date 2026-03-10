@@ -6,6 +6,4 @@ draft = false
 
 ## Our Work
 
-Explore our portfolio of completed archival projects. Each case study demonstrates our methodology, problem-solving approach, and commitment to professional excellence.
-
-From small collections requiring focused attention to large-scale processing projects, we bring the same careful consideration to every engagement.
+Through these examples of previous projects, the range of our skills and the extent of what we can offer is demonstrated. We give them same level of detail and commitment no matter the size of the task.  
