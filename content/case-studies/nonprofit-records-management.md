@@ -17,21 +17,7 @@ featured_image = ""
 summary = "Rescued and organized 50 years of nonprofit program records following facility damage, enabling continued operations and historical documentation."
 +++
 
-## Challenge
-
-Community Action Partnership, a nonprofit serving low-income families for over 50 years, faced an archival crisis when a pipe burst damaged their record storage area. Approximately 35 linear feet of historical program records, grant files, and client documentation were affected by water damage.
-
-The organization needed:
-- Rapid assessment of damage and salvageable materials
-- Emergency stabilization and recovery
-- Processing of recovered materials with proper arrangement
-- Development of ongoing records management system
-- Compliance documentation for grant reporting requirements
-- Historical documentation for their 50th anniversary publication
-
-Time was critical - damaged materials were deteriorating, and the organization needed specific records for active grant reporting.
-
-## Approach
+## Background
 
 We implemented an emergency response and recovery plan:
 
