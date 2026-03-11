@@ -1,22 +1,15 @@
-++
-title = "Nonprofit Historical Records Recovery"
++++
+title = "Consultant Archivist and Write"
 date = 2024-01-10T00:00:00Z
 draft = false
 featured = false
 
-categories = ["Archival Processing", "Organizational Archives"]
+categories = ["Consultant Archivist", "Catalagoguing" "Research" "Writing" "Advice"]
 tags = ["nonprofit archives", "records management", "NHPRC grant", "institutional history"]
 
-client = "Community Action Partnership"
-project_dates = "October 2023 - January 2024"
-services_provided = ["Grant Writing Support", "Collection Recovery", "Archival Processing", "Records Management Training"]
-
-title = "Consultant Archivist and Writer"
-date = 2017-Present
-
-
-client = "Gloucestershire Estate"
+client = " Historic Gloucestershire Estate"
 project_dates = "April 2017 - Present"
+services_provided = ["Grant Writing Support", "Collection Recovery", "Archival Processing", "Records Management Training"]
 
 ## Background
 
