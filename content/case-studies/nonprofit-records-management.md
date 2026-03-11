@@ -1,15 +1,15 @@
 +++
-title = "Nonprofit Historical Records Recovery"
-date = 2024-01-10T00:00:00Z
+title = "Consultant Curatorial Advisor and Exhibitions Officer"
+date = April 2016 - April 2025
 draft = false
 featured = false
 
 categories = ["Archival Processing", "Organizational Archives"]
 tags = ["nonprofit archives", "records management", "NHPRC grant", "institutional history"]
 
-client = "Community Action Partnership"
-project_dates = "October 2023 - January 2024"
-services_provided = ["Grant Writing Support", "Collection Recovery", "Archival Processing", "Records Management Training"]
+client = "Bingham Library Trust"
+project_dates = "April 2016 - April 2025"
+services_provided = ["Creation of specialist art storage" "Curatorial advice for art and archive collections" "Ongoing collections care and management" "creation of a conservation programme" "Creation and delivery of exhibitions, talks, tours and outreach events" "Investigation into Digitisation of the Archive and Grants to fund the project"  Writing Support", "Collection Recovery", "Archival Processing", "Records Management Training"]
 
 images = []
 featured_image = ""
