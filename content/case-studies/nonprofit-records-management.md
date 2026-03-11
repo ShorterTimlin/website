@@ -9,7 +9,7 @@ tags = ["nonprofit archives", "records management", "NHPRC grant", "institutiona
 
 client = "Bingham Library Trust"
 project_dates = "April 2016 - April 2025"
-services_provided = ["Creation of specialist art storage" "Curatorial advice for art and archive collections" "Ongoing collections care and management" "creation of a conservation programme" "Creation and delivery of exhibitions, talks, tours and outreach events" "Investigation into Digitisation of the Archive and Grants to fund the project"  Writing Support", "Collection Recovery", "Archival Processing", "Records Management Training"]
+services_provided = ["Creation of specialist art storage" "Curatorial advice for art and archive collections" "Ongoing collections care and management" "creation of a conservation programme" "Creation and delivery of exhibitions, talks, tours and outreach events" "investigation into digitisation of the Archive and into grants to fund the project"]
 
 images = []
 featured_image = ""
