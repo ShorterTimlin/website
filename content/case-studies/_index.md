@@ -6,4 +6,4 @@ draft = false
 
 ## Our Work
 
-Through these examples of previous projects, the range of our skills and the extent of what we can offer is demonstrated. We give them same level of detail and commitment no matter the size of the task.  
+Through these examples of previous projects, the range of our skills and the extent of what we can offer is demonstrated. We give the same level of detail and commitment no matter the size of the task.  
