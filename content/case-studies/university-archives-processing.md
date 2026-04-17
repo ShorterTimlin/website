@@ -12,8 +12,7 @@ project_dates = "April 2016 - April 2025"
 services_provided = ["Creation of specialist art storage", "Curatorial advice for art and archive collections", "Ongoing collections care and management", "Creation of a conservation programme", "Creation and delivery of exhibitions, talks, tours, and outreach events", "Investigation into digitisation of the archive and grant funding options"]
 +++
 
-## Background
-
+Background
 Key projects and responsibilities included:
 
 Care, conservation, and curatorial management of the Bingham Library Trust collection, including digitisation and cataloguing.
@@ -29,9 +28,3 @@ Promoting understanding of Daniel George Bingham and his legacy.
 Liaising with library staff and related stakeholders to support partnership working.
 Approach
 This role combined collections care, curatorial planning, public engagement, and long-term development of the trust's archive and art collections. The work balanced preservation needs with access, interpretation, and ongoing programme delivery.
-- DACS-compliant descriptive practices
-- EAD encoding and archival system integration
-- Sensitive records handling and access restriction implementation
-- Efficient workflow design for processing backlogs
-- Client communication and timeline management
-- Quality control and professional standards adherence
