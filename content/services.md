@@ -29,11 +29,12 @@ We provide a comprehensive range of services that transform unorganised collecti
 
 **Subject History** - We can provide bespoke research only any subject, place or period including sourcing archival material of if primary evidence or documentary illustration is required.
 
-## Outreach and heritage services
+## Outreach and Heritage
 
 **Outreach** - We can research, create and deliver talks, tours, workshops and exhibitions on any subject and to support any project. These can be bespoke to support your aims and requirements or we can deliver one of our existing options. 
 
 **Heritage Projects** - We can undertake research to support your heritage project, assist and advise on curating and displaying archives, artefacts and artworks to promote your heritage project. We can produce dedicated talks, tours, workshops and exhibitions which we can deliver for you or train your team to deliver in-house.
+
 ## Engagement Models
 
 You can engage us in a number of ways
