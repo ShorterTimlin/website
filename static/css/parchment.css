@@ -153,6 +153,34 @@ p, li, td {
   line-height: 1.7;
 }
 
+.content p a,
+.content li a,
+.content td a,
+.content a {
+  color: #4f3d2e;
+  text-decoration-line: underline;
+  text-decoration-color: rgba(94, 74, 55, 0.85);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.18em;
+  font-weight: 500;
+  transition:
+    color 0.18s ease,
+    text-decoration-color 0.18s ease,
+    background-size 0.18s ease;
+}
+
+.content p a:hover,
+.content p a:focus-visible,
+.content li a:hover,
+.content li a:focus-visible,
+.content td a:hover,
+.content td a:focus-visible,
+.content a:hover,
+.content a:focus-visible {
+  color: #2f2f41;
+  text-decoration-color: rgba(94, 74, 55, 0.9);
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: #2c3e50;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.3);

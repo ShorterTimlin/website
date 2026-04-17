@@ -10,7 +10,7 @@
         {{ if .Site.Params.homepage.show_contact_box }}
         {{ partial "call.html" (dict "site" .Site "context" . "show_button" "true") }}
         {{ end }}
-        {{ .Content }}
+        <div class="content">{{ .Content }}</div>
       </div>
       {{ partial "intro-image.html" . }}
     </div>

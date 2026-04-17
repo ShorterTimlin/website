@@ -12,7 +12,7 @@
   --site-header-pad-top: 1.5rem;
   --site-header-pad-compact: 0.65rem;
   --site-header-offset-desktop: 10.5rem;
-  --site-header-offset-desktop-home: 14rem;
+  --site-header-offset-desktop-home: 8.75rem;
   --site-header-offset-mobile: 6rem;
 }
 
@@ -226,6 +226,10 @@ body.page-home {
   }
 
   body {
+    padding-top: var(--site-header-offset-mobile);
+  }
+
+  body.page-home {
     padding-top: var(--site-header-offset-mobile);
   }
 
