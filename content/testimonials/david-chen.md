@@ -12,4 +12,4 @@ project_reference = ""
 headshot = ""
 +++
 
-Shorter Timlin's digitization work for our photograph collection was outstanding. The image quality is excellent, the metadata is detailed and accurate, and they delivered everything on schedule. They also provided helpful recommendations for our digital preservation strategy that we're now implementing across other collections.
+Shorter Timlin's digitisation work for our photograph collection was outstanding. The image quality is excellent, the metadata is detailed and accurate, and they delivered everything on schedule. They also provided helpful recommendations for our digital preservation strategy that we're now implementing across other collections.

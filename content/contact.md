@@ -6,7 +6,7 @@ draft = false
 
 ## Get in Touch
 
-We'd love to hear about your archival project or research needs. The best way to reach us is by {{< contact-email-word >}}, and we typically respond within 1 to 2 business days.
+We'd love to hear about your archival project or research needs. The best way to reach us is by {{< contact-email-word >}}, and we typically respond within 1 to 2 working days.
 
 <p><a class="button button-primary" href="mailto:{{< contact-email >}}">Email {{< contact-email >}}</a></p>
 
@@ -30,7 +30,7 @@ We'd love to hear about your archival project or research needs. The best way to
 
 ---
 
-## What to Include in Your Inquiry
+## What to Include in Your Enquiry
 
 To help us provide an accurate response, please include:
 

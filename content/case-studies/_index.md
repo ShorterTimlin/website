@@ -4,7 +4,7 @@ date = 2024-01-01T00:00:00Z
 draft = false
 +++
 
-Through these examples of previous projects, the range of our skills and the extent of what we can offer is demonstrated. We give the same level of detail and commitment no matter the size of the task.  
+These examples of previous projects demonstrate the range of our skills and the breadth of what we can offer. We bring the same level of detail and commitment to every task, regardless of scale.
 
 ## Private Client - Owner of Historic Gloucestershire Estate and Business Owner
 
@@ -19,14 +19,14 @@ The client required a consultant archivist to support both immediate and long-te
 * Assessing, cataloguing, and repackaging the estate and family archives, including fragile and mixed-format material.
 * Listing the client's private book collection, creating a bespoke arrangement, and reshelving the volumes to the new arrangement.
 * Researching and writing a second book focused on the estate's restoration.
-* Cataloguing and repackaging over 5 decades of business records
+* Cataloguing and repackaging over 5 decades of business records.
   
 
 ## Bingham Library Trust
 
 {{< case-study-figure src="images/case-studies/bingham.jpg" alt="Bingham Library Trust building" credit="Image: Wikimedia Commons" >}}
 
-The client had a range of projects over several years that required curatorial advice and hertiage expertise. The work combined collections care, curatorial planning, public engagement and outreach, and long-term development of the trust's archive and art collections culminating in delivering a a new arrangement for their now permanent gallery. The work balanced preservation needs with access, interpretation, and ongoing programme delivery.
+The client had a range of projects over several years that required curatorial advice and heritage expertise. The work combined collections care, curatorial planning, public engagement and outreach, and the long-term development of the trust's archive and art collections, culminating in a new arrangement for their permanent gallery. The work balanced preservation needs with access, interpretation and ongoing programme delivery.
 
 Key projects and responsibilities included:
 
@@ -47,8 +47,8 @@ Key projects and responsibilities included:
 
 {{< case-study-figure src="images/case-studies/yarnton.jpeg" alt="Yarnton Manor" credit="Image: Wikimedia Commons" >}}
 
-Survey and assessment of public and private archives of Yarnton Manor, Oxfordshire.  Transcribing and translating English and Latin documents from 13th-19th centuries. Producing and delivering a permanent, public exhibition on the manor.
+Survey and assessment of the public and private archives of Yarnton Manor, Oxfordshire. Transcribing and translating English and Latin documents from the 13th to the 19th centuries. Producing and delivering a permanent public exhibition on the manor.
 
 
-## Other Key Clients 
-Whilst our other clients have been extensive and varied, significant and repeated work includes:supporting archaeological projects by undertaking complimentary archival research and providing firms with documentaty evidence; supporting building heritage projects both secular and ecclesiastical; undertaking historical research for an author to ensure accuracy of the publication; giving talks and lectures including as a speaker for the eminent Gloucester History Festival.
+## Other Key Clients
+Whilst our other clients have been extensive and varied, significant and repeated work has included supporting archaeological projects through complementary archival research and documentary evidence; supporting building heritage projects, both secular and ecclesiastical; undertaking historical research for authors to ensure the accuracy of publications; and giving talks and lectures, including appearances at the Gloucester History Festival.
