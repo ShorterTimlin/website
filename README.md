@@ -11,7 +11,7 @@ This is a professional business website showcasing archival services, case studi
 - **Hugo** v0.157.0+ (Extended)
 - **Theme**: Hugo Serif Theme
 - **Deployment**: GitHub Pages via GitHub Actions
-- **Forms**: Netlify Forms markup is still present in the contact form
+- **Contact**: Email-only contact links
 
 ## Local Development
 
@@ -53,9 +53,7 @@ hugo server -D
 │   └── testimonials/    # Client reviews
 ├── layouts/
 │   ├── partials/
-│   │   └── contact-form.html
 │   └── shortcodes/
-│       └── contact-form.html
 ├── static/
 │   └── images/          # Images and assets
 ├── themes/
@@ -113,7 +111,7 @@ If you later attach a custom domain, update `baseURL` in `hugo.toml` and add a `
 - Professional business theme
 - Case study portfolio
 - Client testimonials
-- Contact form with Netlify Forms integration
+- Email-only contact flow
 - Spam protection (honeypot)
 - Mobile responsive design
 - SEO optimized
@@ -146,17 +144,9 @@ To complete the site, add the following assets to `static/images/`:
 - `hero.jpg` - Homepage hero image
 - Team photos in `images/team/`
 
-## Contact Form
+## Contact
 
-The contact form markup is currently integrated with Netlify Forms and includes:
-
-- Name, email, organization, phone fields
-- Project type dropdown
-- Message textarea
-- Honeypot spam protection
-- Success page redirect
-
-This form will not process submissions on GitHub Pages. If you want it to keep working after the move off Netlify, replace it with another form backend or serverless handler.
+The site currently uses direct `mailto:` links rather than a hosted form backend.
 
 ## License
 

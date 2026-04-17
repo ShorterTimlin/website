@@ -1,0 +1,4 @@
+{{- $email := .Site.Params.contact.email -}}
+{{- if $email -}}
+  {{- if .Get "link" -}}<a href="mailto:{{ $email }}">{{ $email }}</a>{{- else -}}{{ $email }}{{- end -}}
+{{- end -}}

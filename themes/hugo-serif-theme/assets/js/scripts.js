@@ -1,22 +1,43 @@
-var body = document.querySelector("body");
-var menuTrigger = document.querySelector("#toggle-main-menu-mobile");
-var menuContainer = document.querySelector("#main-menu-mobile");
+document.addEventListener("DOMContentLoaded", function () {
+  var header = document.getElementById("site-header");
+  if (header && window.Headroom) {
+    var headroom = new window.Headroom(header, {
+      offset: {
+        up: 48,
+        down: 96
+      },
+      tolerance: {
+        up: 5,
+        down: 0
+      },
+      classes: {
+        initial: "headroom",
+        pinned: "headroom--pinned",
+        unpinned: "headroom--unpinned",
+        top: "headroom--top",
+        notTop: "headroom--not-top",
+        bottom: "headroom--bottom",
+        notBottom: "headroom--not-bottom",
+        frozen: "headroom--frozen"
+      }
+    });
+    headroom.init();
+  }
 
-menuTrigger.onclick = function () {
-  menuContainer.classList.toggle("open");
-  menuTrigger.classList.toggle("is-active");
-  body.classList.toggle("lock-scroll");
-};
+  var offcanvasElement = document.getElementById("primaryNav");
+  if (!offcanvasElement || !window.bootstrap) {
+    return;
+  }
 
-var header = document.getElementById("stickyHeader");
-
-if (header) {
-  var offset = header.offsetTop;
-  document.addEventListener("scroll", function () {
-    if (window.scrollY > offset) {
-      header.classList.add("sticky");
-    } else {
-      header.classList.remove("sticky");
-    }
+  offcanvasElement.querySelectorAll(".nav-link").forEach(function (link) {
+    link.addEventListener("click", function () {
+      if (window.innerWidth >= 992) {
+        return;
+      }
+      var offcanvas = window.bootstrap.Offcanvas.getInstance(offcanvasElement);
+      if (offcanvas) {
+        offcanvas.hide();
+      }
+    });
   });
-}
+});

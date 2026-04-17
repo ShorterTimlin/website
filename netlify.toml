@@ -6,6 +6,7 @@
 # Production context
 [context.production.environment]
   HUGO_VERSION = "0.155.1"
+  HUGO_EXTENDED = "true"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
@@ -15,6 +16,7 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.155.1"
+  HUGO_EXTENDED = "true"
 
 # Branch Deploy context
 [context.branch-deploy]
@@ -22,6 +24,7 @@
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.155.1"
+  HUGO_EXTENDED = "true"
 
 # Security headers
 [[headers]]

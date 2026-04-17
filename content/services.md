@@ -42,4 +42,4 @@ You can engage us in a number of ways
 
 ## Getting Started
 
-We are friendly, professional and approachable. Let us know what you need by email or through our contact form and we will go through the option that best suits your project and budget.
+We are friendly, professional and approachable. Let us know what you need by {{< contact-email-word >}} and we will go through the option that best suits your project and budget.

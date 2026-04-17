@@ -73,7 +73,7 @@ Edit `hugo.toml`:
 ```toml
 [params.contact]
   email = "your-email@example.com"
-  phone = "+44 YOUR NUMBER"
+  phone = ""
   address = "Your Address"
 ```
 

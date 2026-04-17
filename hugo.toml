@@ -7,7 +7,8 @@ theme = 'hugo-serif-theme'
 enableEmoji = true
 
 # Pagination
-paginate = 6
+[pagination]
+  pagerSize = 6
 
 # Taxonomies
 [taxonomies]
@@ -57,8 +58,8 @@ paginate = 6
 
   # Contact
   [params.contact]
-    email = "info@shortertimlinarchivists.com"
-    phone = "(555) 123-4567"
+    email = "shorter.timlin@gmail.com"
+    phone = "07979 356293"
     address = ""
 
   # Social media

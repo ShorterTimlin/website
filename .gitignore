@@ -20,6 +20,7 @@ Thumbs.db
 # Local development
 .env
 node_modules/
+.tools/
 
 # Working files in project root
 /*.png

@@ -15,24 +15,13 @@ $font-family-heading: {{ .Site.Params.fonts.heading }}, serif, -apple-system;
 @import 'variables';
 
 // Bootstrap
-@import 'bootstrap/bootstrap-reboot';
-@import 'bootstrap/bootstrap-grid';
-@import 'bootstrap/bootstrap-utilities';
-// @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
-
-// Libraries
-@import 'libraries/hamburgers/hamburgers';
+@import 'bootstrap/bootstrap';
 
 // Components
 @import 'components/type';
 @import 'components/page';
-@import 'components/header';
 @import 'components/footer';
 @import 'components/sub-footer';
-@import 'components/logo';
-@import 'components/main-menu';
-@import 'components/main-menu-mobile';
-@import 'components/hamburger';
 @import 'components/buttons';
 @import 'components/call';
 @import 'components/title';
@@ -46,7 +35,6 @@ $font-family-heading: {{ .Site.Params.fonts.heading }}, serif, -apple-system;
 // Pages
 @import 'pages/home';
 @import 'pages/team/team-summary';
-@import 'pages/services/page-services-single';
 
 body {
   font-size: 16px;

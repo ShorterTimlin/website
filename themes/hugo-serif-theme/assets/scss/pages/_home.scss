@@ -1,2 +1,17 @@
 .page-home {
+  .intro h2:first-child {
+    width: 90%;
+    font-size: 1.55rem;
+    line-height: 1.2;
+    margin-bottom: 1.5rem;
+
+    @include media-breakpoint-up(md) {
+      font-size: 1.95rem;
+      width: 85%;
+    }
+
+    @include media-breakpoint-up(lg) {
+      font-size: 2.2rem;
+    }
+  }
 }

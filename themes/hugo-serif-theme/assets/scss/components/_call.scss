@@ -2,6 +2,7 @@
   position: relative;
   overflow: hidden;
   background-color: $white-offset;
+  color: $black;
   border-radius: 4px;
   // box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
   width: 100%;
@@ -33,8 +34,13 @@
     font-size: 1.1rem;
     font-weight: bold;
   }
+  .call-email,
   .call-phone {
+    color: $black;
     margin-bottom: 5px;
+    a {
+      color: inherit;
+    }
   }
   strong {
     font-weight: bold;

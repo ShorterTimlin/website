@@ -63,8 +63,7 @@ body {
     );
 }
 
-/* Service and feature boxes with subtle aged paper effect */
-.service,
+/* Feature boxes with subtle aged paper effect */
 .feature {
   background-color: rgba(255, 253, 248, 0.95);
   background-image:
@@ -98,34 +97,54 @@ body {
   box-shadow: 0 2px 8px rgba(139, 119, 101, 0.1);
 }
 
-/* Footer with subtle parchment tone */
+/* Footer sections keep a parchment texture, but inner wrappers stay transparent */
 .footer {
-  background-color: #8b7765 !important;
+  background-color: rgba(239, 232, 219, 0.72) !important;
   background-image:
+    radial-gradient(
+      circle at 18% 22%,
+      rgba(139, 119, 101, 0.08) 0%,
+      transparent 38%
+    ),
+    radial-gradient(
+      circle at 82% 78%,
+      rgba(139, 119, 101, 0.06) 0%,
+      transparent 34%
+    ),
     repeating-linear-gradient(
       0deg,
       transparent,
       transparent 2px,
-      rgba(0, 0, 0, 0.05) 2px,
-      rgba(0, 0, 0, 0.05) 4px
-    ),
-    linear-gradient(
-      to bottom,
-      rgba(139, 119, 101, 1) 0%,
-      rgba(111, 95, 81, 1) 100%
+      rgba(111, 95, 81, 0.035) 2px,
+      rgba(111, 95, 81, 0.035) 4px
     ) !important;
 }
 
 .sub-footer {
-  background-color: #6f5f51 !important;
+  background-color: rgba(231, 222, 208, 0.66) !important;
   background-image:
+    radial-gradient(
+      circle at 24% 28%,
+      rgba(139, 119, 101, 0.06) 0%,
+      transparent 36%
+    ),
     repeating-linear-gradient(
       0deg,
       transparent,
       transparent 2px,
-      rgba(0, 0, 0, 0.06) 2px,
-      rgba(0, 0, 0, 0.06) 4px
+      rgba(111, 95, 81, 0.03) 2px,
+      rgba(111, 95, 81, 0.03) 4px
     ) !important;
+}
+
+.footer .footer-title,
+.footer ul li,
+.footer ul li a,
+.sub-footer,
+.sub-footer .copyright,
+.sub-footer .copyright a,
+.sub-footer .social a {
+  color: #2f2f41 !important;
 }
 
 /* Enhance readability on parchment background */
@@ -198,8 +217,7 @@ textarea:focus,
   width: auto;
 }
 
-/* Case study and testimonial cards */
-.service-summary,
+/* Team cards */
 .team-summary {
   background: rgba(255, 253, 248, 0.95);
   padding: 2rem;
@@ -211,6 +229,14 @@ textarea:focus,
     0 1px 3px rgba(139, 119, 101, 0.08);
 }
 
+.service-summary {
+  background: transparent;
+  padding: 0;
+  margin-bottom: 2rem;
+  border: 0;
+  box-shadow: none;
+}
+
 /* Wrapper background */
 .wrapper {
   background-color: transparent;
@@ -220,6 +246,19 @@ textarea:focus,
 .header .container {
   background-color: transparent;
   background-image: none;
+}
+
+.footer .container,
+.sub-footer .container,
+.footer .footer-inner,
+.sub-footer .sub-footer-inner,
+.footer .row,
+.sub-footer .row,
+.footer [class*="col-"],
+.sub-footer [class*="col-"] {
+  background-color: transparent !important;
+  background-image: none !important;
+  box-shadow: none !important;
 }
 
 /* Strip sections */

@@ -6,25 +6,23 @@ draft = false
 
 ## Get in Touch
 
-We'd love to hear about your archival project or research needs. Fill out the form below and we'll respond within 1-2 business days.
+We'd love to hear about your archival project or research needs. The best way to reach us is by {{< contact-email-word >}}, and we typically respond within 1 to 2 business days.
 
-For urgent inquiries, please call us directly.
-
-{{< contact-form >}}
+<p><a class="button button-primary" href="mailto:{{< contact-email >}}">Email {{< contact-email >}}</a></p>
 
 ---
 
 ## Contact Information
 
-**Email:** shorter.timlin@gmail.com
-
 **Phone:** 07979 356293
+
+**<a href="mailto:{{< contact-email >}}">Email</a>:** {{< contact-email link="true" >}}
 
 ---
 
 ## Consultation Process
 
-1. **Initial Contact** - Reach out via this form, email, or phone
+1. **Initial Contact** - Reach out by {{< contact-email-word >}}
 2. **Discovery Call** - We schedule a 30-minute conversation to understand your needs
 3. **Site Visit or Collection Review** - For processing projects, we review the collection in person or via detailed documentation
 4. **Proposal** - We provide a detailed proposal with scope, timeline, and cost estimate

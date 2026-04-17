@@ -107,12 +107,6 @@ You should see:
 - Hugo version: 0.155.1
 - Environment: Production
 
-**C. Enable Form Notifications:**
-- Go to Site Settings → Forms
-- Enable form notifications
-- Add email address for form submissions
-- Forms will appear at: Site Settings → Forms → Form submissions
-
 **D. Custom Domain Setup:**
 - Go to Site Settings → Domain management
 - Click "Add custom domain"
@@ -136,7 +130,7 @@ You should see:
    - Via hosting control panel
    - Via rsync, etc.
 
-**Note:** Contact form will NOT work without Netlify Forms or alternative form backend.
+**Note:** Contact is currently handled with direct email links.
 
 ### Option 3: GitHub Pages
 
@@ -151,7 +145,7 @@ You should see:
    - Push `public/` contents to this branch
    - Enable GitHub Pages in repository settings
 
-**Note:** Contact form requires alternative form backend (Formspree, Basin, etc.)
+**Note:** Contact is currently handled with direct email links.
 
 ## Content Management
 
@@ -225,7 +219,7 @@ Edit `hugo.toml`:
 ```toml
 [params.contact]
   email = "your-actual-email@example.com"
-  phone = "+44 1234 567890"
+  phone = ""
   address = "Your actual address"
 ```
 
@@ -254,7 +248,7 @@ Before deploying to production:
 
 - [ ] Test all pages load correctly
 - [ ] Test navigation menu on desktop and mobile
-- [ ] Test contact form submission (on Netlify preview)
+- [ ] Test contact email links
 - [ ] Verify all images display properly
 - [ ] Check case studies render correctly
 - [ ] Verify testimonials appear on homepage (if featured)
@@ -279,7 +273,7 @@ hugo version
 ```
 
 ### Form not working locally
-Netlify Forms only work when deployed to Netlify. For local testing, form will submit but won't send emails.
+The site currently uses direct email links, so there is no hosted form flow to test.
 
 ### Changes not showing
 Hard refresh browser: `Ctrl+Shift+R` (Linux/Windows) or `Cmd+Shift+R` (Mac)
@@ -329,7 +323,7 @@ Already configured in `netlify.toml` for static assets
 ## Security
 
 ### Form Spam Protection
-- Honeypot field already implemented in contact form
+- Contact is currently email-only; no hosted form backend is configured
 - Netlify provides additional spam filtering
 - Consider adding reCAPTCHA if spam becomes an issue
 
@@ -348,7 +342,6 @@ Already configured in `netlify.toml`:
 - **Hugo Documentation:** https://gohugo.io/documentation/
 - **Hugo Serif Theme:** https://github.com/zerostaticthemes/hugo-serif-theme
 - **Netlify Documentation:** https://docs.netlify.com/
-- **Netlify Forms:** https://docs.netlify.com/forms/setup/
 
 ## Quick Reference Commands
 
