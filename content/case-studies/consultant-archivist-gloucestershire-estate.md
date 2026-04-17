@@ -35,28 +35,10 @@ Delivering presentations, workshops, lectures, tours, and outreach events.
 Promoting understanding of Daniel George Bingham and his legacy.
 Liaising with library staff and related stakeholders to support partnership working.
 
-## Our Team
+## Yarnton Manor (then home of Oxford Royale)
 
-Our core team includes two qualified Archivists, Helen Timlin BA(Hons) MScEcon and Rebecca Phillips Née Shorter BA (Hons), MARM. We supplement our expertise with associates and digitisation consultants. Every project is led by Helen or Rebecca who maintain direct client communication throughout the engagement.
-
-## Service Area
-
-While our office is located in Gloucestershire, England we regularly work with clients throughout the United Kingdom and abroad. We are available for both on-site and remote consulting engagements.
-+++
-title = "Consultant Archivist and Writer for Gloucestershire Estate"
-date = 2024-01-10T00:00:00Z
-draft = false
-featured = false
-
-categories = ["Consultant Archivist", "Cataloguing", "Research", "Writing", "Advice"]
-tags = ["estate archives", "records management", "historical research", "book project"]
-
-client = "Historic Gloucestershire Estate"
-project_dates = "April 2017 - Present"
-services_provided = ["Grant Writing Support", "Collection Recovery", "Archival Processing", "Records Management Training"]
-+++
+Survey and assessment of public and private archives of Yarnton Manor, Oxfordshire.  Transcribing and translating English and Latin documents from 13th-19th centuries. Producing and delivering a permanent, public exhibition on the manor.
 
 
-
-
-
+## Other Key Clients 
+Whilst our other clients have been extensive and varied, significant and repeated work includes:supporting archaeological projects by undertaking complimentary archival research and providing firms with documentaty evidence; supporting building heritage projects both secular and ecclesiastical; undertaking historical research for an author to ensure accuracy of the publication; giving talks and lectures including as a speaker for the eminent Gloucester History Festival.
