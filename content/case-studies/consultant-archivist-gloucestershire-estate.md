@@ -21,7 +21,7 @@ The owner of a large Gloucestershire estate required a consultant archivist to s
 - Arranging the digitisation of a major collection, including commissioning a digitisation company and managing communication with the repository.
 - Writing a book on the history of the estate, including research, image selection, editing, and design.
 - Assessing, cataloguing, and repackaging the estate and family archives, including fragile and mixed-format material.
-- Listing the client's private book collection, creating a bespoke arrangement, and reshelving the volumes.
+- Listing the client's private book collection, creating a bespoke arrangement, and reshelving the volumes to the new arrangement.
 - Researching and writing a second book focused on the estate's restoration.
 
 ## Approach
