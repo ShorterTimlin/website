@@ -38,6 +38,7 @@ Key projects and responsibilities included:
 * Delivering presentations, workshops, lectures, tours, and outreach events.
 * Promoting understanding of Daniel George Bingham and his legacy.
 * Liaising with library staff and related stakeholders to support partnership working.
+  
 
 ## Yarnton Manor (then home of Oxford Royale)
 
