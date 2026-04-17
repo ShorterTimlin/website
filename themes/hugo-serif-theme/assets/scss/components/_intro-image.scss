@@ -54,5 +54,6 @@
 @include media-breakpoint-down(sm) {
   .intro-image-pair {
     gap: 0.75rem;
+    margin-bottom: 1.5rem;
   }
 }

@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   var header = document.getElementById("site-header");
-  if (header && window.Headroom) {
+  if (header && window.Headroom && window.innerWidth >= 992) {
     var headroom = new window.Headroom(header, {
       offset: {
         up: 48,

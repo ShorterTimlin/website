@@ -178,6 +178,14 @@ body {
 }
 
 @media (max-width: 991.98px) {
+  .site-header,
+  .site-header.headroom--unpinned,
+  .site-header.headroom--pinned,
+  .site-header.headroom--top,
+  .site-header.headroom--not-top {
+    transform: none !important;
+  }
+
   body {
     padding-top: var(--site-header-offset-mobile);
   }
