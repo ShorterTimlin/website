@@ -12,14 +12,14 @@ Through these examples of previous projects, the range of our skills and the ext
 
 The client required a consultant archivist to support both immediate and long-term projects. We worked with the client to establish project priorities and a practical plan of action. Each strand of work was managed professionally and efficiently while keeping the client involved in key decisions. The work included:
 
-- Investigating the location of surviving estate archives that had been dispersed across several repositories.
-- Assessing all identified archives relating to the estate, including one major collection, and producing reports on their content and historic value.
-- Arranging the digitisation of a major collection, including commissioning a digitisation company and managing communication with the repository.
-- Writing a book on the history of the estate, including research, image selection, editing, and design.
-- Assessing, cataloguing, and repackaging the estate and family archives, including fragile and mixed-format material.
-- Listing the client's private book collection, creating a bespoke arrangement, and reshelving the volumes to the new arrangement.
-- Researching and writing a second book focused on the estate's restoration.
-- Cataloguing and repackaging over 5 decades of business records
+Investigating the location of surviving estate archives that had been dispersed across several repositories.
+Assessing all identified archives relating to the estate, including one major collection, and producing reports on their content and historic value.
+Arranging the digitisation of a major collection, including commissioning a digitisation company and managing communication with the repository.
+Writing a book on the history of the estate, including research, image selection, editing, and design.
+Assessing, cataloguing, and repackaging the estate and family archives, including fragile and mixed-format material.
+Listing the client's private book collection, creating a bespoke arrangement, and reshelving the volumes to the new arrangement.
+Researching and writing a second book focused on the estate's restoration.
+Cataloguing and repackaging over 5 decades of business records
 
 ## Bingham Library Trust
 
