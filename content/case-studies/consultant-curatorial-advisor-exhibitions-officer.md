@@ -10,6 +10,7 @@ tags = ["curatorial advice", "collection care", "digitisation", "public engageme
 client = "Bingham Library Trust"
 project_dates = "April 2016 - April 2025"
 services_provided = ["Creation of specialist art storage", "Curatorial advice for art and archive collections", "Ongoing collections care and management", "Creation of a conservation programme", "Creation and delivery of exhibitions, talks, tours, and outreach events", "Investigation into digitisation of the archive and grant funding options"]
++++
 
 Key projects and responsibilities included:
 
