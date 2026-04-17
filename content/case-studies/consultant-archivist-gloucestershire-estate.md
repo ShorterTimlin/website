@@ -12,8 +12,6 @@ project_dates = "April 2017 - Present"
 services_provided = ["Grant Writing Support", "Collection Recovery", "Archival Processing", "Records Management Training"]
 +++
 
-## Background
-
 The owner of a large Gloucestershire estate required a consultant archivist to support both immediate and long-term projects. The work included:
 
 - Investigating the location of surviving estate archives that had been dispersed across several repositories.
