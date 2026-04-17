@@ -22,6 +22,4 @@ The owner of a large Gloucestershire estate required a consultant archivist to s
 - Listing the client's private book collection, creating a bespoke arrangement, and reshelving the volumes to the new arrangement.
 - Researching and writing a second book focused on the estate's restoration.
 
-## Approach
-
 We worked with the client to establish project priorities and a practical plan of action. Each strand of work was managed professionally and efficiently while keeping the client involved in key decisions.
