@@ -7,6 +7,7 @@ draft = false
 ## Our Work
 
 Through these examples of previous projects, the range of our skills and the extent of what we can offer is demonstrated. We give the same level of detail and commitment no matter the size of the task.  
+
 ## Private Client - Owner of Historic Gloucestershire Estate and Business Owner
 
 The client required a consultant archivist to support both immediate and long-term projects. We worked with the client to establish project priorities and a practical plan of action. Each strand of work was managed professionally and efficiently while keeping the client involved in key decisions. The work included:
