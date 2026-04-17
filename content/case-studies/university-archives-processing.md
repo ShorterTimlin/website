@@ -4,7 +4,7 @@ date = 2025-04-01T00:00:00Z
 draft = false
 featured = false
 
-categories = ["Archival Assessment, "Archival Research", "Exhibitions"]
+categories = ["Archival Assessment", "Archival Research", "Exhibitions"]
 tags = ["heritage", "outreach", "public engagement"]
 
 client = "Private Client - Owner of Oxfordshire Manor House and International Summer School"
