@@ -1,23 +1,19 @@
 +++
-title = "University Archives Processing Project"
-date = 2023-09-15T00:00:00Z
+title = "Consultant Curatorial Advisor and Exhibitions Officer"
+date = 2025-04-01T00:00:00Z
 draft = false
-featured = true
+featured = false
 
-categories = ["Archival Processing", "Academic Archives"]
-tags = ["university archives", "finding aids", "EAD", "DACS"]
+categories = ["Archival Processing", "Organisational Archives", "Exhibitions"]
+tags = ["curatorial advice", "collection care", "digitisation", "public engagement"]
 
-client = "Midwestern State University"
-project_dates = "May 2023 - September 2023"
-services_provided = ["Collection Survey", "Archival Processing", "Finding Aid Development", "EAD Encoding"]
-
-images = []
-featured_image = ""
-
-summary = "Comprehensive processing of 120 linear feet of university administrative records, creating detailed finding aids and enabling online access."
+client = "Bingham Library Trust"
+project_dates = "April 2016 - April 2025"
+services_provided = ["Creation of specialist art storage", "Curatorial advice for art and archive collections", "Ongoing collections care and management", "Creation of a conservation programme", "Creation and delivery of exhibitions, talks, tours, and outreach events", "Investigation into digitisation of the archive and grant funding options"]
 +++
 
-Background
+## Background
+
 Key projects and responsibilities included:
 
 Care, conservation, and curatorial management of the Bingham Library Trust collection, including digitisation and cataloguing.
