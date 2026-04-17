@@ -20,6 +20,7 @@ The client required a consultant archivist to support both immediate and long-te
 * Listing the client's private book collection, creating a bespoke arrangement, and reshelving the volumes to the new arrangement.
 * Researching and writing a second book focused on the estate's restoration.
 * Cataloguing and repackaging over 5 decades of business records
+  
 
 ## Bingham Library Trust
 
