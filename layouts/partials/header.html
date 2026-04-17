@@ -36,18 +36,25 @@
           <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
-          <ul class="navbar-nav ms-lg-auto align-items-lg-center site-navbar__nav">
-            {{ range .Site.Menus.main }}
-              {{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
-              {{ $active = or $active (eq (.URL | relLangURL) ($currentPage.RelPermalink | relLangURL)) }}
-              <li class="nav-item">
-                <a class="nav-link {{ if $active }}active{{ end }}" {{ if $active }}aria-current="page"{{ end }} href="{{ .URL }}">
-                  {{ .Pre }}
-                  <span>{{ .Name }}</span>
-                </a>
-              </li>
+          <div class="site-navbar__menu-block ms-lg-auto">
+            <ul class="navbar-nav align-items-lg-center site-navbar__nav">
+              {{ range .Site.Menus.main }}
+                {{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+                {{ $active = or $active (eq (.URL | relLangURL) ($currentPage.RelPermalink | relLangURL)) }}
+                <li class="nav-item">
+                  <a class="nav-link {{ if $active }}active{{ end }}" {{ if $active }}aria-current="page"{{ end }} href="{{ .URL }}">
+                    {{ .Pre }}
+                    <span>{{ .Name }}</span>
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+            {{ with .Site.Params.contact.email }}
+              <div class="site-navbar__email">
+                <a href="mailto:{{ . }}">Email: {{ . }}</a>
+              </div>
             {{ end }}
-          </ul>
+          </div>
         </div>
       </div>
     </div>

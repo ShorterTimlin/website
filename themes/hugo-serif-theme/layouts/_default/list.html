@@ -1,4 +1,4 @@
-{{ define "body_classes" }}page-default-list{{ end }}
+{{ define "body_classes" }}page-default-list {{ if eq .Section "case-studies" }}page-case-studies-list{{ end }}{{ end }}
 
 {{ define "main" }}
 <div class="intro">

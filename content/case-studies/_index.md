@@ -4,11 +4,11 @@ date = 2024-01-01T00:00:00Z
 draft = false
 +++
 
-## Our Work
-
 Through these examples of previous projects, the range of our skills and the extent of what we can offer is demonstrated. We give the same level of detail and commitment no matter the size of the task.  
 
 ## Private Client - Owner of Historic Gloucestershire Estate and Business Owner
+
+{{< case-study-figure src="images/case-studies/estate.jpg" alt="Private client Gloucestershire estate archival work" >}}
 
 The client required a consultant archivist to support both immediate and long-term projects. We worked with the client to establish project priorities and a practical plan of action. Each strand of work was managed professionally and efficiently while keeping the client involved in key decisions. The work included:
 
@@ -23,6 +23,8 @@ The client required a consultant archivist to support both immediate and long-te
   
 
 ## Bingham Library Trust
+
+{{< case-study-figure src="images/case-studies/bingham.jpg" alt="Bingham Library Trust building" credit="Image: Wikimedia Commons" >}}
 
 The client had a range of projects over several years that required curatorial advice and hertiage expertise. The work combined collections care, curatorial planning, public engagement and outreach, and long-term development of the trust's archive and art collections culminating in delivering a a new arrangement for their now permanent gallery. The work balanced preservation needs with access, interpretation, and ongoing programme delivery.
 
@@ -42,6 +44,8 @@ Key projects and responsibilities included:
   
 
 ## Yarnton Manor (then home of Oxford Royale)
+
+{{< case-study-figure src="images/case-studies/yarnton.jpeg" alt="Yarnton Manor" credit="Image: Wikimedia Commons" >}}
 
 Survey and assessment of public and private archives of Yarnton Manor, Oxfordshire.  Transcribing and translating English and Latin documents from 13th-19th centuries. Producing and delivering a permanent, public exhibition on the manor.
 

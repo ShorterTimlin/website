@@ -237,6 +237,35 @@ textarea:focus,
   box-shadow: none;
 }
 
+.content .case-study-figure {
+  margin: 0 0 1.5rem;
+}
+
+.content .case-study-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.content .case-study-figure figcaption {
+  margin-top: 0.4rem;
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: #6b5d4f;
+}
+
+@media (min-width: 768px) {
+  .content .case-study-figure {
+    display: block;
+    float: right;
+    clear: right;
+    width: 48%;
+    max-width: 480px;
+    margin: 0 0 1.5rem 2rem;
+  }
+}
+
 /* Wrapper background */
 .wrapper {
   background-color: transparent;

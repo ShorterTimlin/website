@@ -1,0 +1,9 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $credit := .Get "credit" -}}
+<figure class="case-study-figure">
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}">
+  {{- if $credit }}
+  <figcaption>{{ $credit }}</figcaption>
+  {{- end }}
+</figure>
