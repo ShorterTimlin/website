@@ -17,9 +17,23 @@ The client required a consultant archivist to support both immediate and long-te
 - Researching and writing a second book focused on the estate's restoration.
 - Cataloguing and repackaging over 5 decades of business records
 
-## Our Approach
+## Bingham Library Trust
 
-Ours is a client led approach that is bespoke to your needs. We will work to your goals and ensure we meet your requirements, whether you wish us to take full ownership of your project or involve you at every step. 
+The client had a range of projects over several years that required curatorial advice and hertiage expertise. The work combined collections care, curatorial planning, public engagement and outreach, and long-term development of the trust's archive and art collections culminating in delivering a a new arrangement for their now permanent gallery. The work balanced preservation needs with access, interpretation, and ongoing programme delivery.
+
+Key projects and responsibilities included:
+
+Care, conservation, and curatorial management of the Bingham Library Trust collection, including digitisation and cataloguing.
+Advising on acquisitions and disposals.
+Developing and maintaining collection care policies.
+Expanding and managing the Bingham Art Collection, including the design and delivery of bespoke professional standard art storage.
+Creating a research facility using MODES software.
+Increasing awareness of the Bingham Trust archives held at Gloucestershire Archives and developing the archive collection.
+Designing and delivering an annual themed exhibition using the trust's art and archive collections.
+Promoting and developing the Bingham Gallery, Art Collection, and Archive.
+Delivering presentations, workshops, lectures, tours, and outreach events.
+Promoting understanding of Daniel George Bingham and his legacy.
+Liaising with library staff and related stakeholders to support partnership working.
 
 ## Our Team
 
