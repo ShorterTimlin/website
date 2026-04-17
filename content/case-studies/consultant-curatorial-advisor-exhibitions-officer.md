@@ -25,6 +25,4 @@ Key projects and responsibilities included:
 - Promoting understanding of Daniel George Bingham and his legacy.
 - Liaising with library staff and related stakeholders to support partnership working.
 
-## Approach
-
 This role combined collections care, curatorial planning, public engagement, and long-term development of the trust's archive and art collections. The work balanced preservation needs with access, interpretation, and ongoing programme delivery.
