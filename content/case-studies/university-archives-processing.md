@@ -4,8 +4,8 @@ date = 2025-04-01T00:00:00Z
 draft = false
 featured = false
 
-categories = ["Archival Processing", "Organisational Archives", "Exhibitions"]
-tags = ["curatorial advice", "collection care", "digitisation", "public engagement"]
+categories = ["Archival Assessment, "Archival Research", "Exhibitions"]
+tags = ["heritage", "outreach", "public engagement"]
 
 client = "Private Client - Owner of Oxfordshire Manor House and International Summer School"
 project_dates = "April 2016 - April 2025"
