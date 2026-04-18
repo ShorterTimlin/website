@@ -1,4 +1,4 @@
-baseURL = 'https://shortertimlin.github.io/website/'
+baseURL = 'https://st-archivists.com/'
 languageCode = 'en-us'
 title = 'Shorter Timlin Archivists & Historians'
 theme = 'hugo-serif-theme'
