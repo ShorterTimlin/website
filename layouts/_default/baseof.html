@@ -62,6 +62,8 @@
     {{ $scripts = $scripts | minify | fingerprint }}
   {{ end }}
   <script type="text/javascript" src="{{ $scripts.RelPermalink }}"></script>
+  <script data-goatcounter="https://shortertimlin.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
 
   {{ partial "google-tag-manager.html" . }}
   {{ partial "google-analytics.html" . }}
