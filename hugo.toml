@@ -54,7 +54,7 @@ enableEmoji = true
 
   # Footer
   [params.footer]
-    copyright_text = '&copy; 2024 Shorter Timlin Archivists & Historians. All rights reserved.'
+    copyright_text = '&copy; 2024 Shorter Timlin Archivists & Historians. All rights reserved. Registered Company Number 07897090.'
 
   # Contact
   [params.contact]
